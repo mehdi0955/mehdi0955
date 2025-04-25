@@ -1,16 +1,24 @@
-## Hi there 👋
+سلام! من مهدی ایزدی هستم،
+برنامه‌نویس در حال رشد، کارآفرین دیجیتال، و مربی بین‌المللی ورزش‌های رزمی.
 
-<!--
-**mehdi0955/mehdi0955** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## درباره من:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- دانشجوی مهندسی نرم‌افزار  
+- تیم‌لیدر در مجموعه‌ی پارس نیوشانیک با بیش از ۱۲۰ عضو فعال  
+
+## اهداف من:
+ترکیب تکنولوژی، مهارت‌های فردی، و کارآفرینی برای ساخت آینده‌ای پر از رشد و تاثیر.
+
+---
+
+## ارتباط با من:
+
+- Telegram: [@Hunter_Money8](https://t.me/Hunter_Money8)  
+- Rubika: [Online_business2024](https://rubika.ir/Online_business2024)  
+- Instagram: [@mehdi_ezadi.4824](https://instagram.com/mehdi_ezadi.4824)
+
+---
+
+> "هر خط کد، یک قدم به سوی آینده‌ای بزرگ‌تر است."
